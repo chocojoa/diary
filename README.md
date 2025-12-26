@@ -31,7 +31,7 @@ Flutter로 만든 AI 감정 분석 일기 애플리케이션입니다. Google Ge
 lib/
 ├── main.dart                 # 앱 진입점
 ├── config/
-│   └── api_config.dart      # API 설정 (git에서 제외)
+│   └── api_config.dart      # API 설정
 ├── models/
 │   ├── diary.dart           # 일기 데이터 모델
 │   └── emotion_enum.dart    # 감정 열거형
