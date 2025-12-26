@@ -1,5 +1,5 @@
-# Secrets & API Keys - 절대 커밋하지 말 것
-lib/config/api_config.dart
+# Secrets & API Keys - 실제 API 키는 커밋하지 말 것
+# api_config.dart는 커밋되지만 빈값 상태로 유지됨
 .env
 .env.local
 .env.*.local
